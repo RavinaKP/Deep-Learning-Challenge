@@ -17,7 +17,7 @@ In the first attempt, the following configuration was employed:
 
 The loss value suggests room for further optimization.
 The achieved accuracy of 72.87% falls short of our 75% target.
-* Attempt #2
+* Attempt #2 (Most Optimized)
   The second attempt involved adjustments to the cutoff values while keeping the neural network architecture consistent with Attempt #1:
 
   * APPLICATION_TYPE cutoff: 66
