@@ -8,7 +8,7 @@
     * What variable(s) are the features for your model?
       * Rest of the columns are features except EIN and Name
     *  What variable(s) should be removed from the input data because they are neither targets nor features?
-      *  EIN and Name
+       * EIN and Name
 * Attempt #1
 In the first attempt, the following configuration was employed:
 
