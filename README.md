@@ -1,7 +1,14 @@
 # Deep-Learning-Challenge
 ## Introduction
   In the context of the Deep Learning Challenge, I have undertaken several attempts to construct a neural network model capable of accurately predicting outcomes based on the provided dataset. Our primary objective was to achieve an     accuracy rate of 75% or higher in our predictions. This README file summarizes the three attempts made, presenting key information such as loss values, accuracy, and potential enhancements for future endeavors.
+  * Data Preprocessing
 
+    * What variable(s) are the target(s) for your model?
+      * Answer is IS_SUCCESSFUL. 
+    * What variable(s) are the features for your model?
+      * Rest of the columns are features except EIN and Name
+    *  What variable(s) should be removed from the input data because they are neither targets nor features?
+      *  EIN and Name
 * Attempt #1
 In the first attempt, the following configuration was employed:
 
